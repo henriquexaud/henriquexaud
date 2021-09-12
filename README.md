@@ -1,7 +1,7 @@
 ### Welcome to my profile!
-I am a programmer with knowledge focused on the area of design and software development. I also have experience in team work, graphic design and digital marketing.
+I am a programmer with knowledge focused on the area of design and software development.
 ##
-Mastered languages: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+Mastered languages: 
 ##
 <div>
   <a href="https://www.linkedin.com/in/henrique-xaud-63613216a/">
