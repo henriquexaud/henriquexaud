@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning react native
-
 <div>
   <a href="https://www.linkedin.com/in/henrique-xaud-63613216a/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquexaud&show_icons=true&theme=dark&include_all_commits-true&count_private=true"/>
