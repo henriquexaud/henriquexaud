@@ -1,5 +1,5 @@
 ### Bem-vindo ao meu perfil!
-Sou um programador com conhecimentos em design e desenvolvimento de aplicações web e mobile.
+Sou um programador com conhecimentos em design e desenvolvimento web e mobile.
 
 Principais Linguagens:
   <img align="center" alt="Hen-HTML" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
