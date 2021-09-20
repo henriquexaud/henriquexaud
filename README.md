@@ -1,5 +1,5 @@
 ### Bem-vindo(a)!
-Sou um desenvolvedor com conhecimentos em design e desenvolvimento web e mobile.
+Sou um programador com conhecimentos em design e desenvolvimento web e mobile.
   
 Principais Tecnologias: 
   <img align="center" alt="Hen-React" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
