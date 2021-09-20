@@ -1,4 +1,4 @@
-### Bem-vindo!
+### Bem-vindo(a)!
 Sou um desenvolvedor com conhecimentos em design e desenvolvimento web e mobile.
   
 Principais Tecnologias: 
