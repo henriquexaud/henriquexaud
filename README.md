@@ -5,8 +5,6 @@ Principais Tecnologias:
   <img align="center" alt="Hen-React" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Hen-React" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-Meus Links: https://henriquexaud.github.io/MyLinkTree/
-  
 ##
 
 <div>
