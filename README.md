@@ -1,4 +1,3 @@
-### Bem-vindo(a)!
 Sou um programador front-end com conhecimentos em desenvolvimento web e mobile.
   
 Principais Tecnologias: 
