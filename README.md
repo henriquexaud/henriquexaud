@@ -1,4 +1,4 @@
-Programador com conhecimentos na área de análise e desenvolvimento de software. Também tenho experiência com Marketing, UX/UI Design e Metodologias Ágeis.
+Estudante com conhecimentos na área de análise e desenvolvimento de software.
   
 Principais Tecnologias: 
   <img align="center" alt="Hen-React" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
