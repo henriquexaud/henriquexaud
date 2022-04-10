@@ -1,4 +1,4 @@
-Estudante com conhecimentos na área de análise e desenvolvimento de software.
+Estudante com conhecimentos em desenvolvimento de software.
   
 Principais Tecnologias: 
   <img align="center" alt="Hen-React" height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
