@@ -1,4 +1,4 @@
-Estudante de Ciência e Tecnologia com conhecimentos em Desenvolvimento de Software.
+Science and Technology student with knowledge in Software Development.
   
 ##
 
