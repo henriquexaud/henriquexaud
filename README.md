@@ -1,4 +1,4 @@
-Science and Technology student with knowledge in Software Development.
+Student of Science and Technology specialized in Software Development.
   
 ##
 
