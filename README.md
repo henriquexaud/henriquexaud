@@ -1,4 +1,4 @@
-IT technician specialized in software development.
+IT technician specializing in software development.
   
 ##
 
