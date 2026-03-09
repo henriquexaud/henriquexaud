@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white"/>
