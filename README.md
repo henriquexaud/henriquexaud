@@ -29,7 +29,7 @@
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs"/>
 <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
@@ -37,7 +37,7 @@
 
 ### Databases
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
