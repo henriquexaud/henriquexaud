@@ -29,8 +29,8 @@
 ### Backend
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs"/><!-- 
-<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs"/>
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask"/>
 </p>
 
